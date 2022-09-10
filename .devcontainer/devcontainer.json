@@ -5,7 +5,7 @@
     ],
     "codespaces": {
       "zero": {
-        "defaultFile": "src/Linear.ipynb"
+        "defaultFile": "src/SplineFitting.ipynb"
       }
     }
   }
